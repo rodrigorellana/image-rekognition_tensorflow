@@ -1,0 +1,9 @@
+{
+  "name": "tuberculosis",
+  "version": "1.0.0",
+  "main": "main.js",
+  "license": "MIT",
+  "dependencies": {
+    "@tensorflow/tfjs-node-gpu": "^3.8.0"
+  }
+}
